@@ -4,8 +4,9 @@
 </div>
 <h1 align="center"> Hi there 👋 I'm Shad a Data Science Enthusiast</h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohdshaadsonofvakeel&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-5000-blue?style=flat-square" alt="Custom Profile Views"/>
 </div>
+
 ## 🎓 Academic Journey
 **IIT Madras BS in Data Science & Applications** | Currently in BSc Level  
 - ✅ Completed **Diploma Level** in 3 consecutive terms (12 subjects + 4 projects)

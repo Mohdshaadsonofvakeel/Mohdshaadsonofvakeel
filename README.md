@@ -1,10 +1,10 @@
-# Hi there, I'm a Data Science Enthusiast 👨‍💻
+
 <div align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="120"/>
 </div>
 <h1 align="center"> Hi there 👋 I'm Shad a Data Science Enthusiast</h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi5h3k&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mohdshaadsonofvakeel&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 ## 🎓 Academic Journey
 **IIT Madras BS in Data Science & Applications** | Currently in BSc Level  

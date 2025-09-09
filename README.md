@@ -1,5 +1,11 @@
 # Hi there, I'm a Data Science Enthusiast 👨‍💻
-
+<div align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="120"/>
+</div>
+<h1 align="center"> Hi there 👋 I'm Shad a Data Science Enthusiast</h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi5h3k&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 ## 🎓 Academic Journey
 **IIT Madras BS in Data Science & Applications** | Currently in BSc Level  
 - ✅ Completed **Diploma Level** in 3 consecutive terms (12 subjects + 4 projects)
@@ -51,13 +57,15 @@ Specific fields of interest include 🔥 :
   </a>
   
  <div>
-<a href="https://github.com/Vi1234sh12">
+<a href="https://github.com/Mohdshaadsonofvakeel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vi1234sh12&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Vi1234sh12">
+<a href="https://github.com/Mohdshaadsonofvakeel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vi1234sh12&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
  </div>
+
+ 
 ## 🏆 Featured Projects
 
 ### 🤖 TDS Virtual Teaching Assistant
